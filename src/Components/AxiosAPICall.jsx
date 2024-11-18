@@ -26,7 +26,6 @@ const AxiosAPICall = () => {
         getDataOfBooks();
     }, [])
     
-
   return (
     <div>
         <table>
